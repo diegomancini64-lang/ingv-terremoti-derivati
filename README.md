@@ -1,2 +1,7 @@
-# ingv-terremoti-derivati
-Dataset derivati dei terremoti INGV in formato CSV/GeoJSON, rielaborati per uso GIS (QGIS, Lizmap). Fonte: INGV – Open Data. Repository non ufficiale.
+# INGV Terremoti Derivati
+
+Dataset derivati dei terremoti INGV in formato CSV/GeoJSON per uso GIS (QGIS, Lizmap).
+
+Fonte: INGV – Open Data  
+Licenza: CC BY 4.0  
+Nota: repository non ufficiale.
